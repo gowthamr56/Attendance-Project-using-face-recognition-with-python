@@ -1,0 +1,11 @@
+1. install visual studio community edition (https://visualstudio.microsoft.com/downloads/)
+2. pip install cmake
+3. pip install dlib (https://pypi.org/project/dlib/19.18.0/#files)
+	# to install dlib module
+	# first go to the above link and download the file
+	# open command prompt, type 'python setup.py install'
+	# this will take few minutes, so be patient until the 'setup.py' get installed
+4. pip install numpy
+5. pip install opencv
+6. pip install face-recognition
+7. Haarcascades for frontal face
