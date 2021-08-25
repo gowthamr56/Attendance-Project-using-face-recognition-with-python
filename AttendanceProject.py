@@ -33,7 +33,7 @@ def findEncodings(images):
 encodingListKnown = findEncodings(images)
 print("Encodings Completed")
 
-# Adding the names to attendance list
+# Adding the names to Attendance.csv file
 def attendance(name):
     with open("Attendance.csv", "r+") as f:
         attendanceList = f.readlines()
