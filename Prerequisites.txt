@@ -6,6 +6,6 @@
 	# open command prompt, type 'python setup.py install'
 	# this will take few minutes, so be patient until the 'setup.py' get installed
 4. pip install numpy
-5. pip install opencv
+5. pip install opencv-python
 6. pip install face-recognition
 7. Haarcascades for frontal face
