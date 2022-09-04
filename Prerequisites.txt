@@ -1,11 +1,12 @@
 1. install visual studio community edition (https://visualstudio.microsoft.com/downloads/)
 2. pip install cmake
-3. pip install dlib (https://pypi.org/project/dlib/19.18.0/#files)
+3. pip install dlib (https://github.com/gowthamr56/face_recog_dlib_file)
 	# to install dlib module
 	# first go to the above link and download the file
-	# open command prompt, type 'python setup.py install'
+	# open command prompt, type 'pip install dlib-19.19.0-cp37-cp37m-win_amd64.whl'
 	# this will take few minutes, so be patient until the 'setup.py' get installed
 4. pip install numpy
 5. pip install opencv-python
 6. pip install face-recognition
 7. Haarcascades for frontal face
+	# download from (https://raw.githubusercontent.com/opencv/opencv/ad6e82942b37be8ee2c71c1d9bc7fe79cd16f7ab/data/haarcascades/haarcascade_frontalface_default.xml)
